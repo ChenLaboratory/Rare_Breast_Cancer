@@ -1,0 +1,16 @@
+cluster	cell_type
+0	Macrophage
+1	Contamination
+2	T
+3	T
+4	B
+5	Macrophage
+6	Macrophage
+7	Plasma
+8	Macrophage
+9	Mast
+10	pDC
+11	Macrophage
+12	Dendritic
+13	Dendritic
+14	Adipocyte

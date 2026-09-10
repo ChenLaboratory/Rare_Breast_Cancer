@@ -1,0 +1,12 @@
+cluster	cell_type
+0	Tumor_2
+1	Tumor_1
+2	Tumor_4
+3	Tumor_1
+4	Tumor_3
+5	Tumor_2
+6	Macrophage
+7	T
+8	Tumor_5
+9	Luminal
+10	Basal

@@ -1,0 +1,15 @@
+cluster	cell_type
+0	Tumor
+1	T
+2	T
+3	B
+4	Plasma
+5	Myeloid
+6	Fibroblast
+7	Cycling_T
+8	Endothelial
+9	Tumor
+10	pDC
+11	Epithelial
+12	Myeloid
+13	Mast

@@ -1,0 +1,12 @@
+cluster	cell_type
+0	Fibroblast
+1	Fibroblast
+2	Fibroblast
+3	Endothelial
+4	Adipocyte
+5	Fibroblast
+6	Pericyte
+7	Fibroblast
+8	Endothelial
+9	Lymph.vessel
+10	Muscle

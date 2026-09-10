@@ -1,0 +1,13 @@
+cluster	cell_type
+0	Tumor
+1	Tumor
+2	Tumor
+3	Tumor
+4	Cycling_Tumor
+5	Basal
+6	ML
+7	Fibroblast
+8	Tumor
+9	LP
+10	Tumor
+11	Myeloid

@@ -1,0 +1,10 @@
+cluster	cell_type
+0	Tumor
+1	Tumor
+2	Tumor
+3	Cycling_Tumor
+4	Tumor
+5	Tumor
+6	Tumor
+7	Myeloid
+8	T

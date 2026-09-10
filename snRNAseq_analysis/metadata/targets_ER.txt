@@ -1,0 +1,6 @@
+Sample	Name	Subtype
+SK27	ER_1	ER
+SK37	ER_2	ER
+SK38	ER_3	ER
+SK51	ER_4	ER
+SK52	ER_5	ER

@@ -1,0 +1,15 @@
+cluster	cell_type
+0	Endothelial
+1	Adipocyte
+2	Adipocyte
+3	Fibroblast
+4	Endothelial
+5	Pericyte
+6	Endothelial
+7	Mixed
+8	Mixed
+9	Endothelial
+10	Endothelial
+11	Endothelial
+12	Lymph.vessel
+13	Mixed

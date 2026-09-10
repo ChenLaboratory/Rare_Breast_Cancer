@@ -1,0 +1,10 @@
+cluster	cell_type
+0	Tumor_1
+1	ML
+2	Basal
+3	Tumor_2
+4	Tumor_3
+5	Tumor_1
+6	LP
+7	CAF
+8	Cycling_Tumor
