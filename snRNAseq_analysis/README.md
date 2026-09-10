@@ -65,7 +65,6 @@ Scripts, run in order:
 |   |-- <Subtype>_celltype_{All,Immune,Stroma,Tumour}.txt
 |   |-- Contamination.txt
 |   |-- HsMarkers_snRNAseq.txt
-|   |-- gene_ordering_table.tsv
 |   |-- CAF_Signatures.txt
 ```
 
