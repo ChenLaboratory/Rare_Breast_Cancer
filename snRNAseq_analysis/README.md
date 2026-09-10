@@ -7,6 +7,8 @@ immune, stroma and tumour compartments, then the sub-populations of the immune
 and stroma compartments), a final annotation that removes the contaminating
 clusters, and pseudo-bulk differential expression between the subtypes.
 
+Samples are grouped by subtype (APO, CYS, ER, IMPC, MED, MpBC, PLC, TNBC) in
+`metadata/targets_<Subtype>.txt`.
 
 ## Workflow
 
