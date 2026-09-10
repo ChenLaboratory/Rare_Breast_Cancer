@@ -1,0 +1,5 @@
+SampleID	Subtype	snRNAseq	height	width	outWidth
+PLC_2	PLC	SK54	9	9	95%
+PLC_3	PLC	SK55	7	10	100%
+PLC_4	PLC	SK56	9	8	90%
+PLC_7	PLC	SK64	9	8	90%

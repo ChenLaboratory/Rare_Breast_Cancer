@@ -1,0 +1,4 @@
+SampleID	Subtype	snRNAseq	height	width	outWidth
+CYS_1	CYS	SK65	9	9	95%
+CYS_3	CYS	SK67	9	9	95%
+CYS_4	CYS	SK68	9	9	95%

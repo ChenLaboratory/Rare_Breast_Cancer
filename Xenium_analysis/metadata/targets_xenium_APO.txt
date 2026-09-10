@@ -1,0 +1,6 @@
+SampleID	Subtype	snRNAseq	height	width	outWidth
+APO_3	APO	SK62	9	9	95%
+APO_4b	APO	SK63	9	9	95%
+APO_5	APO	SK69	9	9	95%
+APO_6	APO	SK70	9	9	95%
+APO_8	APO	SK06	9	9	95%

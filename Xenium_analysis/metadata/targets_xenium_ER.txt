@@ -1,0 +1,7 @@
+SampleID	Subtype	snRNAseq	height	width	outWidth
+ER_pos	ER	SK	9	9	95%
+ER_3	ER	SK37	9	9	95%
+ER_6	ER	SK52	9	9	95%
+ER_7	ER	NA	9	9	95%
+ER_8	ER	NA	9	9	95%
+ER_9	ER	NA	9	9	95%

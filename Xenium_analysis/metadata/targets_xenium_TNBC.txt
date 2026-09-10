@@ -1,0 +1,7 @@
+SampleID	Subtype	snRNAseq	height	width	outWidth
+ER_neg	TNBC	SK24	9	8	90%
+TNBC_1	TNBC	SK21	9	9	95%
+TNBC_5	TNBC	SK59	9	9	95%
+TNBC_6	TNBC	SK60	9	9	95%
+TNBC_7	TNBC	SK05	9	9	95%
+TNBC_9	TNBC	NA	9	9	95%

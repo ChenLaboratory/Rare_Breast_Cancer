@@ -1,0 +1,12 @@
+cluster	cell_type
+0	myCAF
+1	iCAF
+2	myCAF
+3	Mixed
+4	apCAF
+5	apCAF
+6	myCAF
+7	Mixed
+8	FRC
+9	iCAF
+10	Mixed
