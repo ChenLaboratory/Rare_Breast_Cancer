@@ -38,34 +38,34 @@ Scripts, run in order:
 
 ```text
 <repository>/
-|-- 00_Install_Packages.R
-|-- setup.R
-|-- config.R
-|-- 01_Preprocessing_QC.R
-|-- 02_InferCNV.R
-|-- 03_Integration_All.R
-|-- 04_Integration_Compartment.R
-|-- 05_Integration_Subpopulation.R
-|-- 06_Integration_Final.R
-|-- 07_Pseudobulk_Tumour.R
-|-- 08_Pseudobulk_CAF.R
-|-- slurm/
-|   |-- _modules.sh
-|   |-- 01_submit_preprocessing.sh          01_run_preprocessing.sh
-|   |-- 02_submit_infercnv.sh               02_run_infercnv.sh
-|   |-- 03_submit_integration_all.sh        03_run_integration_all.sh
-|   |-- 04_submit_integration_compartment.sh 04_run_integration_compartment.sh
-|   |-- 05_submit_integration_subpopulation.sh 05_run_integration_subpopulation.sh
-|   |-- 06_submit_integration_final.sh      06_run_integration_final.sh
-|   |-- 07_run_pseudobulk_tumour.sh
-|   |-- 08_run_pseudobulk_caf.sh
-|-- metadata/
-|   |-- targets_all.txt
-|   |-- targets_<Subtype>.txt
-|   |-- <Subtype>_celltype_{All,Immune,Stroma,Tumour}.txt
-|   |-- Contamination.txt
-|   |-- HsMarkers_snRNAseq.txt
-|   |-- CAF_Signatures.txt
+├── 00_Install_Packages.R
+├── setup.R
+├── config.R
+├── 01_Preprocessing_QC.R
+├── 02_InferCNV.R
+├── 03_Integration_All.R
+├── 04_Integration_Compartment.R
+├── 05_Integration_Subpopulation.R
+├── 06_Integration_Final.R
+├── 07_Pseudobulk_Tumour.R
+├── 08_Pseudobulk_CAF.R
+├── slurm/
+|   ├── _modules.sh
+|   ├── 01_submit_preprocessing.sh          01_run_preprocessing.sh
+|   ├── 02_submit_infercnv.sh               02_run_infercnv.sh
+|   ├── 03_submit_integration_all.sh        03_run_integration_all.sh
+|   ├── 04_submit_integration_compartment.sh 04_run_integration_compartment.sh
+|   ├── 05_submit_integration_subpopulation.sh 05_run_integration_subpopulation.sh
+|   ├── 06_submit_integration_final.sh      06_run_integration_final.sh
+|   ├── 07_run_pseudobulk_tumour.sh
+|   └── 08_run_pseudobulk_caf.sh
+└── metadata/
+    ├── targets_all.txt
+    ├── targets_<Subtype>.txt
+    ├── <Subtype>_celltype_{All,Immune,Stroma,Tumour}.txt
+    ├── Contamination.txt
+    ├── HsMarkers_snRNAseq.txt
+    └── CAF_Signatures.txt
 ```
 
 
