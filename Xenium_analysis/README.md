@@ -35,27 +35,27 @@ writes its objects to a separate directory.
 
 ```text
 <repository>/
-|-- 00_Install_Packages.R
-|-- setup.R
-|-- config.R
-|-- 01_Segmentation_ProSeg.sh
-|-- 02_Individual_Analysis.R
-|-- 03_Spatial_LR.R
-|-- 04_Integration_Grid.R
-|-- 05_Integration_Cell_CAF.R
-|-- slurm/
-|   |-- 01_submit_segmentation.sh        01_run_segmentation.sh
-|   |-- 02_submit_individual.sh          02_run_individual.sh
-|   |-- 03_submit_spatial_lr.sh          03_run_spatial_lr.sh
-|   |-- 04_submit_integration_grid.sh    04_run_integration_grid.sh
-|   |-- 05_submit_integration_cell_caf.sh 05_run_integration_cell_caf.sh
-|-- metadata/
-|   |-- targets_proseg_all.txt
-|   |-- targets_all.txt
-|   |-- targets_xenium_<Subtype>.txt
-|   |-- <Subtype>_celltype_Individual.txt
-|   |-- <Subtype>_caf_annotation.txt
-|   |-- HsMarkers_Xenium.txt
+├── 00_Install_Packages.R
+├── setup.R
+├── config.R
+├── 01_Segmentation_ProSeg.sh
+├── 02_Individual_Analysis.R
+├── 03_Spatial_LR.R
+├── 04_Integration_Grid.R
+├── 05_Integration_Cell_CAF.R
+├── slurm/
+|   ├── 01_submit_segmentation.sh          01_run_segmentation.sh
+|   ├── 02_submit_individual.sh            02_run_individual.sh
+|   ├── 03_submit_spatial_lr.sh            03_run_spatial_lr.sh
+|   ├── 04_submit_integration_grid.sh       04_run_integration_grid.sh
+|   └── 05_submit_integration_cell_caf.sh  05_run_integration_cell_caf.sh
+└── metadata/
+    ├── targets_proseg_all.txt
+    ├── targets_all.txt
+    ├── targets_xenium_<Subtype>.txt
+    ├── <Subtype>_celltype_Individual.txt
+    ├── <Subtype>_caf_annotation.txt
+    └── HsMarkers_Xenium.txt
 ```
 
 
